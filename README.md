@@ -69,13 +69,13 @@ I'm a passionate Full Stack Developer specializing in .NET technologies using C#
 
 <p align="left">
   <a href="https://github.com/AbanoubShafiq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanAbuelgheit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubShafiq&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/AbanoubShafiq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanAbuelgheit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubShafiq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages">
   </a>
 </p>
 
