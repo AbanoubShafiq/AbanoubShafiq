@@ -9,12 +9,13 @@
 
 ## 🛠 About Me
 
-I'm a passionate Full Stack Developer specializing in .NET technologies using C#, Entity Framework, and LINQ. I have extensive experience in backend development, database management, and data structures & algorithms.
+I'm a motivated Full Stack Developer with strong skills in ASP.NET MVC, .NET Core, and Angular. I have hands-on experience in backend development, database design, and building responsive web applications using Bootstrap and JavaScript.
 
-🔹 ITI 9-Month Graduate  
-🔹 Experience with SQL Server, MySQL, and Oracle  
-🔹 Strong knowledge of API Development & Web Applications  
-🔹 Passionate about clean code, performance optimization, and problem-solving  
+🔹 ITI 9-Month Graduate
+🔹 Skilled in ASP.NET MVC, .NET Core, Entity Framework Core, and Angular
+🔹 Experience with SQL Server and database management
+🔹 Strong background in Web Development, API Integration, and System Design
+🔹 Passionate about clean architecture, best coding practices, and continuous learning
 
 ---
 
